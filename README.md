@@ -17,6 +17,6 @@ For a video example of how a DEBI-NN is trained over an open-source tabular data
 
 Trainable parameter count comparison is detailed in file: Parameter comparison-SLENDER.xlsx. Refer to the individual explanations on each table in the spreadsheet to interpret how individual network schemes were established and how the calculations are performed.
 
-# Interpretability Questionaire
+# Interpretability Questionnaire
 
-For the preliminary interpretability questionaire of the SLENDER project refer to Preliminary Interpretability Questionaire-SLENDER.docx. This file conains the planned questions the SLENDER project shall utilize to evaluate the added value of any interpretability approach the project utilizes for cNNs and cDEBI-NNs.
+For the preliminary interpretability questionnaire of the SLENDER project refer to Preliminary Interpretability Questionnaire-SLENDER.docx. This file conains the planned questions the SLENDER project shall utilize to evaluate the added value of any interpretability approach the project utilizes for cNNs and cDEBI-NNs.

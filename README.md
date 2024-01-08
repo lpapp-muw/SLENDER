@@ -8,7 +8,7 @@ L. Papp, D. Haberl, B. Ecsedi et al., DEBI-NN: Distance-encoding biomorphic-info
 
 https://www.sciencedirect.com/science/article/pii/S089360802300446X
 
-Note: The github repository for the fully-connected DEBI-NN is located here: https://github.com/lpapp-muw/DEBI-NN
+**Note**: The github repository for the fully-connected DEBI-NN is located here: https://github.com/lpapp-muw/DEBI-NN
 
 This repository does not contain source code, which will be available here once the SLENDER project departs.
 

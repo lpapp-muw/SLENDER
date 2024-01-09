@@ -17,6 +17,8 @@ For a video example of how a DEBI-NN is trained over an open-source tabular data
 
 [YouTube: Distance-Encoding Biomorphic-Informational (DEBI) Neural Network training process example](https://youtu.be/S4Dj5qc7Rno)
 
+**Note**: This video was hand-crafted from series of screenshots. The cDEBI-NN implmentation within SLENDER will have native, interative 3D interpretation approaches also implemented.
+
 # Trainable Parameter Count Comparison
 
 Trainable parameter count comparison is detailed in file: ```Parameter comparison-SLENDER.xlsx```. Refer to the individual explanations on each table in the spreadsheet to interpret how individual network schemes were established and how the calculations are performed.

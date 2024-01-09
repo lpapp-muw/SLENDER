@@ -6,8 +6,6 @@ We conducted a preliminary study on fully-connected DEBI-NN network schemes. To 
 
 L. Papp, D. Haberl, B. Ecsedi et al., DEBI-NN: Distance-encoding biomorphic-informational neural networks for minimizing the number of trainable parameters. Neural Networks (2023), doi: https://doi.org/10.1016/j.neunet.2023.08.026.
 
-https://www.sciencedirect.com/science/article/pii/S089360802300446X
-
 **Note**: The github repository for the fully-connected DEBI-NN is located here: https://github.com/lpapp-muw/DEBI-NN
 
 This repository does not contain source code, which will be available here once the SLENDER project departs.
